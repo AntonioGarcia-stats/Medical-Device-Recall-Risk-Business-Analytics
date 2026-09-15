@@ -39,7 +39,7 @@ The Power BI dashboard includes:
 3. Recall Prioritization
 
 # Dashboard Preview
-![Power BI Dashboard](outputs/figures/dashboard_preview.png)
+![Power BI Dashboard](outputs/figures/Medical_Device_Recall_Dashboard.png)
 
 ## Author
 Antonio Garcia
