@@ -39,7 +39,7 @@ The Power BI dashboard includes:
 3. Recall Prioritization
 
 # Dashboard Preview
-![Power BI Dashboard](outputs/figures/Recall_Power_BI_Output.png)
+![Power BI Dashboard](outputs/figures/Recall Power BI Output.png)
 
 ## Author
 Antonio Garcia
