@@ -9,7 +9,7 @@ Which root causes are associated with longer resolution time?
 Which recalls are most likely to remain unresolved after one year?
 How can recall - risk results be communicated through business dashboards?
 
-## Datasource
+## Data Source
 https://www.kaggle.com/datasets/kylefengkfeng209/medical-device-recall-survival-data
 
 ## Tools
@@ -40,7 +40,7 @@ https://www.kaggle.com/datasets/kylefengkfeng209/medical-device-recall-survival-
 ### Overall Recall Resolution
 The Kaplan - Meier curve shows how the probability of a recall remaining unresolved changes over time
 
-![Overall Recall Resolution](outputs/figures/overall_recall_resolution.png)
+![Overall Recall Resolution](outputs/figures/Overall_Recall_Resolution.png)
 
 ### Recall Resolution by Device Class
 Recall - resolution curves were compared across device classes. The log-rank test showed no statistically significant difference between classes ( p = 0.53).
