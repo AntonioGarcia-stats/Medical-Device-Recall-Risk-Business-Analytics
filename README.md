@@ -9,6 +9,9 @@ Which root causes are associated with longer resolution time?
 Which recalls are most likely to remain unresolved after one year?
 How can recall - risk results be communicated through business dashboards?
 
+## Datasource
+https://www.kaggle.com/datasets/kylefengkfeng209/medical-device-recall-survival-data
+
 ## Tools
 - R
 - Power BI
