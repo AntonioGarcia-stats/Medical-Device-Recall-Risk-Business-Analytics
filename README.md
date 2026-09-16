@@ -45,12 +45,12 @@ The Kaplan - Meier curve shows how the probability of a recall remaining unresol
 ### Recall Resolution by Device Class
 Recall - resolution curves were compared across device classes. The log-rank test showed no statistically significant difference between classes ( p = 0.53).
 
-![Recall Resolution by Device Class](outputs/figures/recall_resolution_by_device_class.png)
+![Recall Resolution by Device Class](outputs/figures/Recall_Resolution_By_Device_Class.png)
 
 ### Recall Resolution by Predicted Risk Group
 Predicted risk groups showed clear differences in recall resolution time. High risk recalls remained unresolved longer than medium and low risk recalls, with significant differences across groups ( p < 0.0001).
 
-![Recall Resolution by Predicted Risk Group](outputs/figures/risk_group_km_curve.png)
+![Recall Resolution by Predicted Risk Group](outputs/figures/Recall_Resolution_By_Predicted_Risk_Group.png)
 
 ## Dashboard
 The Power BI dashboard includes:
