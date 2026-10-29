@@ -130,7 +130,7 @@ The spline - enhanced log logistic AFT model demonstrated substantially better i
 
 Overall,  this project illustrates the potential application of advanced statistical techniques to recall monitoring, exploratory risk assessment, and data driven decision making. 
 
-# Dashboard Preview
+# Power BI Interactive Dashboard Preview
 ![Power BI Dashboard](powerbi/Power%20BI%20-%20Dashboard%20Preview.png)
 
 
