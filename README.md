@@ -148,6 +148,9 @@ Predicted risk groups showed clear differences in recall resolution time. High r
 # Dashboard Preview
 ![Power BI Dashboard](outputs/figures/PowerBI_Dashboard.png)
 
+![Power BI Dashboard](powerbi/Power%20BI%20-%20Dashboard%20Preview.png)
+
+
 ## Author
 Antonio Garcia
 M.S. Applied Statistics
