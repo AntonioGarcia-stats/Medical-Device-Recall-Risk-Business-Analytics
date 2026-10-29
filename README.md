@@ -127,16 +127,6 @@ The spline - enhanced log logistic AFT model demonstrated substantially better i
 
 Overall,  this project illustrates the potential application of advanced statistical techniques to recall monitoring, exploratory risk assessment, and data driven decision making. 
 
-
-
-## Key Outputs
-- Predicted recall risk
-- One year unresolved probability
-- High risk recall classification
-- Recall risk by device class
-- Recall risk by medical specialty
-- Recall risk by root cause
-
 ## Visual Results
 
 ### Overall Recall Resolution
