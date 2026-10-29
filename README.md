@@ -46,6 +46,8 @@ Of the 404 observations, 359 (88.9%) experienced recall resolution, while 45 (11
 - DAX
 - LaTeX / Overleaf
 - GitHub
+## Research Report
+[Read Full Statistical Analysis Report](reports/Medical_Device_Recall_Survival_Analysis.pdf)
 
 ## Methodology
 ## 1. Data Preprocessing and Exploratory Analysis
