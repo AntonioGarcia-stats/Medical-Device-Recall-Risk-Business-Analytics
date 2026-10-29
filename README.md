@@ -1,4 +1,4 @@
-# Medical Device Recall Risk & Business Analytics
+# Medical Device Recall Risk Analytics Using R
 
 ## Project Overview
 This project applies survival analysis and business analytics techniques to investigate factors associated with medical device recall resolution times. The objective is to identify characteristics associated with prolong recalls, evaluate statistical models for time to event analysis, and support data driven risk monitoring and resource prioritization.
