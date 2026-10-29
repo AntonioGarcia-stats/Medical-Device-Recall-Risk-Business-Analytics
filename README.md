@@ -103,12 +103,15 @@ Of the 404 observations, 359 (88.9%) experienced recall resolution, while 45 (11
 ## Visual Results
 ## Overall Recall Resolution
 The Kaplan - Meier survival curve illustrates how the estimated probability of a recall remaining unresolved changes over time.
+![Overall Recall Resolution](outputs/figures/Overall_Recall_Resolution.png)
 
 ## Recall Resolution by Device Class
 The Kaplan - Meier survival curves were compared across device classifications. The log - rank test did not identify statistically significant differences among the groups.
+![Recall Resolution by Device Class](outputs/figures/Recall_Resolution_by_Device_Class.png)
 
 ## Recall Resolution by Predicted Risk Group
 The original predictive risk analysis investigated differences in recall resolution patterns among risk categories.
+![Recall Resolution by Predicted Risk Group](outputs/figures/Recall_Resolution_by_Predicted_Risk_Group.png)
 
 ## Limitations
 The analysis is subject to several limitations, including imbalanced categorical group sizes, censoring, potential model misspecification, and the relatively small dataset.
@@ -126,24 +129,6 @@ This project demonstrates how survival analysis, statistical modeling, and busin
 The spline - enhanced log logistic AFT model demonstrated substantially better in sample fit than the original linear effects model, while model diagnostics highlighted the importance of assessing the underlying model assumptions.
 
 Overall,  this project illustrates the potential application of advanced statistical techniques to recall monitoring, exploratory risk assessment, and data driven decision making. 
-
-## Visual Results
-
-### Overall Recall Resolution
-The Kaplan - Meier curve shows how the probability of a recall remaining unresolved changes over time
-
-![Overall Recall Resolution](outputs/figures/Overall_Recall_Resolution.png)
-
-### Recall Resolution by Device Class
-Recall - resolution curves were compared across device classes. The log-rank test showed no statistically significant difference between classes ( p = 0.53).
-
-![Recall Resolution by Device Class](outputs/figures/Recall_Resolution_by_Device_Class.png)
-
-### Recall Resolution by Predicted Risk Group
-Predicted risk groups showed clear differences in recall resolution time. High risk recalls remained unresolved longer than medium and low risk recalls, with significant differences across groups ( p < 0.0001).
-
-![Recall Resolution by Predicted Risk Group](outputs/figures/Recall_Resolution_by_Predicted_Risk_Group.png)
-
 
 # Dashboard Preview
 ![Power BI Dashboard](powerbi/Power%20BI%20-%20Dashboard%20Preview.png)
